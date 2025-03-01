@@ -74,11 +74,16 @@ a, button:hover {
   font-size: 16px;
   font-weight: 600;
   line-height: 20px;
-  justify-content: center;
   align-items: center;
   color: #A26539;
   background: #FFFFFF;
   padding-left: 0px;
+  text-align: center;
+  padding-top: 16px;
+}
+.header-crumbs__button:hover {
+  background: rgb(162, 101, 57) !important;
+  color: #FFFFFF !important;
 }
 
 .main-page {
@@ -127,6 +132,13 @@ a, button:hover {
   line-height: 20px;
   color: #A26539;
   margin-bottom: 202px;
+  text-align: center;
+  padding-top: 16px;
+  padding-left: 94px;
+}
+.main-page__text_button:hover {
+  background: rgb(162, 101, 57) !important;
+  color: #FFFFFF !important;
 }
 .main-page__coffee {
   position: absolute;
