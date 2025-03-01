@@ -4,4 +4,4 @@
 Использованы препроцессоры для улучшения CSS. 
 Использованы позиционирование Grid и Flexbox.
 Применены JavaScript функции. 
-https://coffeehousesite.netlify.app/
+[ссылку на деплой проекта.](https://coffeehousesite.netlify.app/)
